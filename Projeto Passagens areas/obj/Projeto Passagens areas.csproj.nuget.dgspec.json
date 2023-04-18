@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\56026708820\\Desktop\\Projeto Passagens areas\\Projeto Passagens areas.csproj": {}
+    "C:\\Users\\56026708820\\Desktop\\Passagens-aereas\\Projeto Passagens areas\\Projeto Passagens areas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\56026708820\\Desktop\\Projeto Passagens areas\\Projeto Passagens areas.csproj": {
+    "C:\\Users\\56026708820\\Desktop\\Passagens-aereas\\Projeto Passagens areas\\Projeto Passagens areas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Projeto Passagens areas\\Projeto Passagens areas.csproj",
+        "projectUniqueName": "C:\\Users\\56026708820\\Desktop\\Passagens-aereas\\Projeto Passagens areas\\Projeto Passagens areas.csproj",
         "projectName": "Projeto Passagens areas",
-        "projectPath": "C:\\Users\\56026708820\\Desktop\\Projeto Passagens areas\\Projeto Passagens areas.csproj",
+        "projectPath": "C:\\Users\\56026708820\\Desktop\\Passagens-aereas\\Projeto Passagens areas\\Projeto Passagens areas.csproj",
         "packagesPath": "C:\\Users\\56026708820\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\56026708820\\Desktop\\Projeto Passagens areas\\obj\\",
+        "outputPath": "C:\\Users\\56026708820\\Desktop\\Passagens-aereas\\Projeto Passagens areas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\56026708820\\AppData\\Roaming\\NuGet\\NuGet.Config",
